@@ -1,0 +1,291 @@
+case_id,activity,timestamp,resource
+C001,Register Patient,2026-04-09 11:51:00,Frank
+C001,Triage,2026-04-09 13:47:00,Jana
+C001,Take Vitals,2026-04-09 15:32:00,Frank
+C001,doctor_consultation,2026-04-09 17:02:00,Hana
+C001,Prescribe Treatment,2026-04-09 17:43:00,Frank
+C002,Register Patient,2026-04-10 12:03:00,Laila
+C002,Take Vitals,2026-04-10 12:33:00,Bob
+C002,Triage,2026-04-10 12:45:00,Karim
+C002,ORDER LAB TESTS,2026-04-10 14:21:00,Laila
+C002,Billing,2026-04-10 15:47:00,Grace
+C002,Discharge Patient,2026-04-10 16:03:00,Laila
+C003,Register Patient,2026-04-06 14:39:00,
+C003,Triage,2026-04-06 15:53:00,Carol
+C003,take_vitals,2026-04-06 16:44:00,Dave
+C003,Doctor Consultation,2026-04-06 16:58:00,Jana
+C003,Billing,2026-04-06 18:20:00,Grace
+C003,Discharge Patient,2026-04-06 19:22:00,Carol
+C004,REGISTER PATIENT,2026-03-05 10:24:00,Laila
+C004,Triage,2026-03-05 10:57:00,Karim
+C004,take_vitals,2026-03-05 12:11:00,Bob
+C004,Order Lab Tests,2026-03-05 14:07:00,Ivan
+C004,Billing,2026-03-05 14:13:00,Laila
+C004,Discharge Patient,2026-03-05 15:14:00,Carol
+C005,Register Patient,2026-03-27 08:43:00,Laila
+C005,Register Patient,2026-03-27 08:43:00,Laila
+C005,Triage,2026-03-27 09:50:00,Jana
+C005,Take Vitals,2026-03-27 11:31:00,Bob
+C005,Doctor Consultation,2026-03-27 12:37:00,Hana
+C005,Billing,2026-03-27 13:32:00,Bob
+C005,Discharge Patient,2026-03-27 14:38:00,Bob
+C006,register_patient,2026-04-02 13:15:00,Frank
+C006,triage,2026-04-02 14:50:00,Carol
+C006,Take Vitals,2026-04-02 16:08:00,Bob
+C006,Doctor Consultation,2026-04-02 16:38:00,Hana
+C006,Prescribe Treatment,2026-04-02 17:51:00,Ivan
+C007,Register Patient,2026-03-23,Laila
+C007,TAKE VITALS,2026-03-23,Bob
+C007,Triage,2026-03-23 11:24:00,Carol
+C007,Order Lab Tests,2026-03-23 12:09:00,Laila
+C007,Prescribe Treatment,2026-03-23 13:32:00,Carol
+C008,Register Patient,2026-03-04 12:29:00,Laila
+C008,Take Vitals,2026-03-04 14:24:00,Frank
+C008,Triage,2026-03-04 15:15:00,Jana
+C008,Doctor Consultation,2026-03-04,Jana
+C008,PRESCRIBE TREATMENT,2026-03-04 17:30:00,Frank
+C009,register_patient,2026-03-07 16:32:00,Frank
+C009,Take Vitals,2026-03-07 17:59:00,Frank
+C009,Triage,2026-03-07 18:06:00,Karim
+C009,Doctor Consultation,2026-03-07 19:31:00,Dave
+C009,Billing,2026-03-07 21:22:00,Grace
+C009,Discharge Patient,2026-03-07 21:58:00,Bob
+C010,Register Patient,2026-03-16 11:29:00,Laila
+C010,Take Vitals,2026-03-16 14:59:00,Frank
+C010,Triage,2026-03-16 13:23:00,Jana
+C010,order_lab_tests,2026-03-16 16:06:00,Ivan
+C010,prescribe_treatment,,Ivan
+C011,Register Patient,2026-03-07 12:18:00,Frank
+C011,Take Vitals,2026-03-07 13:29:00,Bob
+C011,Triage,2026-03-07 14:16:00,Jana
+C011,Doctor Consultation,2026-03-07 14:37:00,Jana
+C011,BILLING,2026-03-07 16:05:00,Bob
+C011,Discharge Patient,2026-03-07,Bob
+C012,Register Patient,2026-04-10 08:38:00,
+C012,triage,2026-04-10 11:01:00,Jana
+C012,Take Vitals,2026-04-10 09:45:00,Frank
+C012,Order Lab Tests,2026-04-10 11:55:00,Carol
+C012,Billing,2026-04-10 13:05:00,Laila
+C012,Discharge Patient,2026-04-10 13:20:00,Bob
+C013,Register Patient,2026-03-17 11:33:00,Bob
+C013,Triage,2026-03-17 11:38:00,Karim
+C013,Take Vitals,2026-03-17 11:53:00,Frank
+C013,Doctor Consultation,2026-03-17 12:42:00,Hana
+C013,Billing,2026-03-17 12:57:00,Grace
+C013,DISCHARGE PATIENT,2026-03-17 14:35:00,
+C014,Register Patient,2026-03-27 15:26:00,Bob
+C014,Take Vitals,2026-03-27 17:17:00,
+C014,Triage,2026-03-27 17:52:00,Karim
+C014,Doctor Consultation,2026-03-27 18:45:00,Jana
+C014,Prescribe Treatment,2026-03-27 19:53:00,Ivan
+C015,register_patient,,Frank
+C015,Triage,2026-03-27 13:36:00,Jana
+C015,TAKE VITALS,2026-03-27,Bob
+C015,ORDER LAB TESTS,2026-03-27 14:27:00,Carol
+C015,Billing,2026-03-27 16:13:00,Bob
+C015,Discharge Patient,2026-03-27 16:37:00,
+C015,Discharge Patient,2026-03-27 16:37:00,
+C016,Register Patient,2026-03-20 14:06:00,Frank
+C016,Take Vitals,2026-03-20 15:15:00,Frank
+C016,Triage,2026-03-20 16:22:00,Carol
+C016,Doctor Consultation,2026-03-20 17:14:00,Dave
+C016,Prescribe Treatment,2026-03-20 18:41:00,Carol
+C017,Register Patient,2026-03-02 16:09:00,Bob
+C017,triage,2026-03-02 17:41:00,Karim
+C017,take_vitals,2026-03-02 18:33:00,Dave
+C017,DOCTOR CONSULTATION,2026-03-02 20:14:00,Hana
+C017,Billing,2026-03-02 20:56:00,Grace
+C017,Discharge Patient,2026-03-02 22:27:00,Laila
+,Register Patient,2026-04-02 08:01:00,Laila
+C018,Triage,2026-04-02 08:08:00,Carol
+C018,Take Vitals,2026-04-02 08:57:00,Bob
+C018,Doctor Consultation,2026-04-02 10:14:00,Jana
+C018,Prescribe Treatment,2026-04-02 12:11:00,Ivan
+C019,Register Patient,2026-03-22 10:18:00,Laila
+C019,Triage,2026-03-22 10:45:00,
+C019,Take Vitals,2026-03-22 12:43:00,Bob
+C019,DOCTOR CONSULTATION,2026-03-22 13:10:00,Dave
+C019,Prescribe Treatment,2026-03-22 14:03:00,Ivan
+C020,Register Patient,2026-04-10 13:49:00,Frank
+C020,Triage,2026-04-10 15:42:00,Jana
+C020,Take Vitals,2026-04-10 17:16:00,Bob
+C020,Order Lab Tests,,Carol
+C020,Prescribe Treatment,2026-04-10 19:58:00,Frank
+C021,Register Patient,2026-03-23 14:11:00,Frank
+C021,Take Vitals,2026-03-23 15:48:00,Dave
+C021,triage,2026-03-23 16:34:00,Carol
+C021,Doctor Consultation,2026-03-23 17:53:00,Jana
+C021,billing,2026-03-23 18:03:00,Bob
+C021,DISCHARGE PATIENT,2026-03-23 19:24:00,Laila
+C022,Register Patient,2026-03-06 08:25:00,Bob
+C022,Triage,2026-03-06 09:22:00,
+C022,Take Vitals,2026-03-06 10:42:00,Dave
+C022,Order Lab Tests,2026-03-06 12:21:00,Carol
+C022,PRESCRIBE TREATMENT,2026-03-06,Carol
+C023,REGISTER PATIENT,2026-04-08 11:37:00,Laila
+C023,Take Vitals,2026-04-08 13:13:00,Frank
+C023,Order Lab Tests,2026-04-08 15:25:00,Carol
+C023,Triage,2026-04-08 13:32:00,Carol
+C023,prescribe_treatment,2026-04-08 15:33:00,Carol
+C024,register_patient,2026-04-05 10:23:00,Frank
+C024,Take Vitals,,Bob
+C024,TRIAGE,2026-04-05 11:25:00,
+C024,order_lab_tests,2026-04-05 12:46:00,Carol
+C024,Billing,2026-04-05 13:58:00,Laila
+C024,Discharge Patient,2026-04-05 15:50:00,Carol
+C025,Register Patient,2026-03-11 14:13:00,Bob
+C025,Take Vitals,2026-03-11 16:02:00,Bob
+C025,Triage,2026-03-11 16:32:00,Jana
+C025,Order Lab Tests,2026-03-11 17:07:00,Laila
+C025,Billing,2026-03-11 18:37:00,Bob
+C025,Discharge Patient,2026-03-11 19:07:00,Carol
+C026,REGISTER PATIENT,2026-04-06 11:54:00,Frank
+C026,Triage,2026-04-06 13:46:00,Karim
+C026,Take Vitals,2026-04-06 14:42:00,Dave
+C026,Order Lab Tests,,Carol
+C026,Billing,2026-04-06 17:02:00,Laila
+C026,Discharge Patient,2026-04-06 18:27:00,Laila
+C027,Register Patient,2026-03-11 10:36:00,Bob
+C027,TRIAGE,2026-03-11,Jana
+C027,TAKE VITALS,2026-03-11 12:17:00,
+C027,ORDER LAB TESTS,2026-03-11 13:25:00,Carol
+C027,PRESCRIBE TREATMENT,2026-03-11 13:30:00,
+C028,Register Patient,2026-04-04 13:38:00,Laila
+C028,take_vitals,2026-04-04 14:22:00,Dave
+C028,order_lab_tests,2026-04-04 15:59:00,Carol
+C028,Prescribe Treatment,2026-04-04 16:17:00,Frank
+C028,Prescribe Treatment,2026-04-04 16:17:00,Frank
+C029,Register Patient,2026-04-04 12:54:00,Laila
+,Take Vitals,,Bob
+C029,Triage,2026-04-04 16:39:00,Jana
+C029,Order Lab Tests,2026-04-04 18:04:00,Ivan
+C029,prescribe_treatment,2026-04-04 19:26:00,Carol
+C030,Register Patient,2026-04-08 14:10:00,Bob
+C030,Triage,2026-04-08 14:50:00,Karim
+,take_vitals,2026-04-08 14:57:00,Frank
+C030,Doctor Consultation,2026-04-08 16:22:00,Hana
+C030,BILLING,2026-04-08 17:43:00,Bob
+C030,Discharge Patient,2026-04-08 19:31:00,Carol
+C031,Register Patient,2026-03-09 13:08:00,
+C031,Triage,2026-03-09 13:23:00,Jana
+C031,Take Vitals,2026-03-09 14:16:00,Frank
+C031,Doctor Consultation,2026-03-09 15:09:00,Dave
+C031,Prescribe Treatment,2026-03-09 17:03:00,Frank
+C032,Register Patient,2026-03-05 11:33:00,Laila
+C032,Take Vitals,2026-03-05 12:00:00,Dave
+C032,doctor_consultation,2026-03-05 14:22:00,Jana
+C032,billing,2026-03-05 15:59:00,Laila
+C032,discharge_patient,2026-03-05 17:59:00,Laila
+C033,Register Patient,2026-03-04 13:10:00,Bob
+C033,Take Vitals,2026-03-04 14:32:00,Dave
+C033,Triage,2026-03-04 15:49:00,Karim
+C033,doctor_consultation,,Jana
+C033,Billing,2026-03-04 17:16:00,Bob
+C033,Discharge Patient,2026-03-04 17:37:00,Laila
+C034,Register Patient,2026-03-03 14:18:00,Laila
+C034,Triage,2026-03-03 14:55:00,Jana
+C034,Take Vitals,2026-03-03 16:16:00,Dave
+C034,DOCTOR CONSULTATION,2026-03-03 16:23:00,Dave
+C034,Prescribe Treatment,2026-03-03 17:48:00,Ivan
+C035,register_patient,2026-04-01 16:29:00,Laila
+C035,Take Vitals,2026-04-01 18:05:00,Bob
+C035,TRIAGE,2026-04-01 18:39:00,Karim
+C035,Doctor Consultation,2026-04-01 19:27:00,Dave
+,Billing,2026-04-01 20:44:00,Laila
+C035,Discharge Patient,2026-04-01 20:51:00,Laila
+C036,Register Patient,2026-04-09 15:38:00,Laila
+C036,Take Vitals,2026-04-09 17:08:00,Bob
+C036,Triage,2026-04-09 17:16:00,Carol
+C036,Order Lab Tests,2026-04-09 18:31:00,Ivan
+C036,PRESCRIBE TREATMENT,2026-04-09 18:40:00,Ivan
+C037,register_patient,2026-03-19 16:53:00,Laila
+C037,register_patient,2026-03-19 16:53:00,Laila
+C037,Triage,2026-03-19 18:25:00,Carol
+C037,take_vitals,2026-03-19 19:04:00,Dave
+C037,Order Lab Tests,2026-03-19 20:43:00,Ivan
+C037,billing,2026-03-19,Bob
+C037,Discharge Patient,2026-03-19 23:20:00,Laila
+C038,REGISTER PATIENT,2026-03-13 10:07:00,Bob
+C038,Take Vitals,2026-03-13 10:53:00,
+C038,Order Lab Tests,2026-03-13 12:41:00,Ivan
+C038,Prescribe Treatment,2026-03-13 14:11:00,Ivan
+C039,Register Patient,2026-03-02 16:16:00,Laila
+C039,TRIAGE,2026-03-02 18:14:00,Karim
+C039,Take Vitals,2026-03-02 18:19:00,Dave
+C039,Prescribe Treatment,2026-03-02 19:49:00,Frank
+C039,doctor_consultation,2026-03-02 19:05:00,Jana
+C040,Take Vitals,2026-04-10 16:01:00,Frank
+C040,Register Patient,2026-04-10 14:32:00,Bob
+C040,Triage,,Jana
+C040,DOCTOR CONSULTATION,2026-04-10 18:02:00,Hana
+C040,billing,2026-04-10,Bob
+C040,Discharge Patient,2026-04-10 19:29:00,Bob
+C041,REGISTER PATIENT,2026-03-29 13:56:00,Laila
+C041,REGISTER PATIENT,2026-03-29 13:56:00,Laila
+C041,Take Vitals,2026-03-29 15:20:00,
+C041,Triage,2026-03-29 16:13:00,Carol
+C041,Doctor Consultation,2026-03-29 16:31:00,Jana
+C041,BILLING,,Grace
+C041,Discharge Patient,2026-03-29 18:15:00,Laila
+C042,Register Patient,2026-03-21 13:26:00,Bob
+C042,Triage,2026-03-21 15:24:00,Jana
+C042,Take Vitals,2026-03-21 17:13:00,Dave
+C042,Doctor Consultation,2026-03-21 18:47:00,Hana
+C042,Billing,2026-03-21 20:38:00,Grace
+C042,Discharge Patient,2026-03-21 21:27:00,Bob
+C043,REGISTER PATIENT,2026-04-04 15:42:00,Laila
+C043,Take Vitals,2026-04-04 16:29:00,Bob
+C043,Triage,2026-04-04 16:40:00,Carol
+C043,Order Lab Tests,2026-04-04 17:32:00,Laila
+C043,billing,2026-04-04 18:39:00,Bob
+C043,Discharge Patient,2026-04-04 19:07:00,
+C044,REGISTER PATIENT,2026-03-09 14:51:00,Laila
+C044,Take Vitals,2026-03-09 16:20:00,Bob
+C044,Triage,2026-03-09 18:15:00,Carol
+C044,Order Lab Tests,2026-03-09 18:53:00,Laila
+C044,Billing,2026-03-09 20:31:00,Bob
+C044,DISCHARGE PATIENT,2026-03-09 21:21:00,Laila
+C045,Register Patient,2026-03-20 12:48:00,Frank
+C045,triage,2026-03-20 13:33:00,Jana
+C045,Take Vitals,2026-03-20 14:59:00,Dave
+C045,Order Lab Tests,2026-03-20 15:39:00,Laila
+C045,Billing,2026-03-20 16:37:00,Laila
+C045,Discharge Patient,2026-03-20 16:51:00,Bob
+C046,Register Patient,2026-04-04 09:00:00,Laila
+C046,Triage,2026-04-04 09:17:00,Karim
+C046,take_vitals,2026-04-04 09:35:00,Dave
+C046,order_lab_tests,2026-04-04 11:22:00,Ivan
+C046,Billing,2026-04-04 11:52:00,Bob
+C046,Discharge Patient,2026-04-04 12:12:00,Bob
+C047,Register Patient,2026-04-03 14:38:00,Frank
+C047,TAKE VITALS,2026-04-03 16:17:00,Dave
+C047,Triage,2026-04-03 17:58:00,Carol
+C047,Doctor Consultation,2026-04-03 18:21:00,Hana
+C047,Billing,2026-04-03 20:20:00,
+C047,discharge_patient,2026-04-03 21:42:00,Carol
+C048,register_patient,2026-03-22 11:31:00,Bob
+C048,Take Vitals,2026-03-22 13:11:00,Frank
+C048,Triage,2026-03-22 12:49:00,Jana
+C048,Doctor Consultation,2026-03-22 14:52:00,Hana
+C048,Billing,2026-03-22 16:44:00,Bob
+,DISCHARGE PATIENT,2026-03-22 18:32:00,Bob
+C049,Register Patient,2026-04-10 15:04:00,Frank
+C049,Triage,2026-04-10 15:16:00,Karim
+C049,Triage,2026-04-10 15:16:00,Karim
+C049,Take Vitals,2026-04-10 16:16:00,Frank
+C049,Doctor Consultation,2026-04-10 17:43:00,
+C049,Billing,2026-04-10 17:55:00,Bob
+C049,Discharge Patient,2026-04-10 18:14:00,Laila
+C050,REGISTER PATIENT,2026-04-06 10:06:00,Frank
+C050,REGISTER PATIENT,2026-04-06 10:06:00,Frank
+C050,Take Vitals,2026-04-06 11:59:00,Frank
+C050,Triage,,Carol
+C050,order_lab_tests,2026-04-06 14:12:00,Laila
+C050,Billing,2026-04-06 16:09:00,Laila
+C050,Discharge Patient,2026-04-06 17:52:00,Carol
+C051,REGISTER PATIENT,2026-03-12 15:58:00,Bob
+C051,triage,2026-03-12 17:26:00,Jana
+,take_vitals,2026-03-12 18:09:00,Frank
+C051,Doctor Consultation,2026-03-12 19:37:00,Hana
+C051,Billing,2026-03-12 19:50:00,Grace
+C051,Discharge Patient,2026-03-12 21:33:00,Carol
